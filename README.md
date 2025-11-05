@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋Salut,moi c'est laureine
 
-<!--
-**kanyerelaureine74/kanyerelaureine74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Etudiante en informatique
+💻Passionnée par le dévéloppement, les réseaux et la cybersécurité
+📚Toujours en apprentissage, curieuse et motivée
 
-Here are some ideas to get you started:
+📫 Compétences
+- Langages: Javascript,PHP,C++
+- Fremworks: React, Larevel,Node.js
+- **Outils: Git, VSCode,Arduino,Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📉 Statiques Github
+![kanyerelaureine74 Github stats] (https//github-readme-stats.vercel.app/api?username=kanyerelaureine74&show_icons=true&theme=radical)
+
+📞 Mes contacter
+🖼 laureinekally74@gmail.com 💼 Linkedln
