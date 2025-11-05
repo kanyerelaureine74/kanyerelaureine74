@@ -1,28 +1,23 @@
 # 👋coucou, moi c'est Laureine
 
-💻 Ce que je fais
-
-  • 🎋 En apprentissage continu : C++,Javascript
-  • 🎓 Etudiante en informatique: Développeur d'applicarion Web et Desktop
-  • 📚 projet créatifs et visuels
-
-🧰 Technologies & Outils
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+# 💫 About Me:
+ 🎋 En apprentissage continu : C++,Javascript <br>• 🎓 Etudiante en informatique: Développeur d'applicarion Web et Desktop <br>• 📚 projet créatifs et visuels
 
 
-📊 Statistiques GitHub
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/laureinekally) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laureinekally) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@laureinekally) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@laureinekally74) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laureinekally74) 
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=kanyerelaureine74&show_icons=true&theme=tokyonight)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyerelaureine74&layout=compact&theme=tokyonight)
+# 💻 Tech Stack:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kanyerelaureine74&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kanyerelaureine74&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyerelaureine74&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=kanyerelaureine74&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📫 Me contacter
-  📧 laureinekally74@gmail.com
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
