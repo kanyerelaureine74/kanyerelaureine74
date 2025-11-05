@@ -1,12 +1,12 @@
 # 👋coucou, moi c'est Laureine
 
-#💻 Ce que je fais
+💻 Ce que je fais
 
-• 🎋 En apprentissage continu : C++,Javascript
-• 🎓 Etudiante en informatique: Développeur d'applicarion Web et Desktop
-• 📚 projet créatifs et visuels
+  • 🎋 En apprentissage continu : C++,Javascript
+  • 🎓 Etudiante en informatique: Développeur d'applicarion Web et Desktop
+  • 📚 projet créatifs et visuels
 
-#🧰 Technologies & Outils
+🧰 Technologies & Outils
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
@@ -14,14 +14,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
 
-#📊 Statistiques GitHub
+📊 Statistiques GitHub
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=kanyerelaureine74&show_icons=true&theme=tokyonight)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyerelaureine74&layout=compact&theme=tokyonight)
 
 
-#📫 Me contacter
- 📧 laureinekally74@gmail.com
+📫 Me contacter
+  📧 laureinekally74@gmail.com
 
 
 
